@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Nali Manasa Yadav
 
-<!--
-**nalimanasa04/nalimanasa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Python Full Stack Developer  
+📚 Currently learning Python and Web Development  
+🚀 Building projects and improving coding skills daily  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠 Skills
+
+- Python
+- HTML
+- CSS
+- GitHub
+
+---
+
+# 📌 Projects
+
+- Expense Tracker
+- 🌐 Personal Portfolio Website
+
+---
+
+# 🌱 Current Goal
+
+To become a strong Python Full Stack Developer and build real-world projects.
+
+---
+
+# 🔗 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/manasa-yadav-nali-8a2a91350/
+
+---
+
+
+
+---
+
+# 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+
+---
+
+# 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
